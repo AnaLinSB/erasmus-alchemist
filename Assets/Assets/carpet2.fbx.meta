@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 27cecacae0d95e74f86bfa7000e8332c
+guid: 4b56af75c7eae964c806e442a6599c70
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -10,7 +10,7 @@ ModelImporter:
       name: openPBR_shader1
     second: {fileID: 2100000, guid: 9bc3699f9a32b384aa0802a400852f73, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
