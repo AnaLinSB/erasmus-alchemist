@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28395dbbaea70584b81209f7e0e379c1
+guid: 9ce3136b9a1958640975762111c43c7c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: openPBR_shader1
-    second: {fileID: 2100000, guid: b312038d280975a4a8cc9942f7839d97, type: 2}
+      name: Solid
+    second: {fileID: 2100000, guid: 329b129c72abbb54e85c24d2c77d2d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 9b49a151b4c736c4aaa96174d6c6b521, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
