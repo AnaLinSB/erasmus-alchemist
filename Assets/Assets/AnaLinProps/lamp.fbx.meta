@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: openPBR_shader1
-    second: {fileID: 2100000, guid: 88880f4e605a04142bd986d9ee4addfc, type: 2}
+      name: openPBR_shader4
+    second: {fileID: 2100000, guid: e77c7fc1bf5f58e41a02327c52c0cac2, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
