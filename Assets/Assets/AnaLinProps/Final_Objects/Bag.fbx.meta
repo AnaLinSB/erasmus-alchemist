@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 92b67b928f7bc4443bfe8a313fd59b64
+guid: 4342d9f01b4936d44936301b929adb31
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maya_Lambert39
+    second: {fileID: 2100000, guid: b2c113af1fe6e124a9f67fa0edffaae8, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

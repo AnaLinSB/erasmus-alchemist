@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: 01f340846b987024788362e7aaaa1564
+guid: 79af16f6517e91e46b8ca124cead3f9b
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maya_Lambert40
+    second: {fileID: 2100000, guid: e77c7fc1bf5f58e41a02327c52c0cac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: openPBR_shader19
+    second: {fileID: 2100000, guid: e77c7fc1bf5f58e41a02327c52c0cac2, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
