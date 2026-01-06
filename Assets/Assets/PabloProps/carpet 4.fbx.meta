@@ -3,7 +3,12 @@ guid: 29c5a9aaed9f2284a9ae98893cf2c89f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maya_Lambert10
+    second: {fileID: 2100000, guid: 8f057e0b091b56a4f84dda478d57204d, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
